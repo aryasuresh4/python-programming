@@ -53,3 +53,10 @@ def takeInput():
         takeInput()
 
 takeInput()
+
+//output
+Enter the starting range: 2000
+Enter the stopping range: 8000
+4624, square of 68
+6084, square of 78
+6400, square of 80
