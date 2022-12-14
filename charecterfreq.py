@@ -5,3 +5,7 @@ def charFreq(str):
     return wordCount
 word=input("Enter a string to check for charecter frequency:")
 print(charFreq(word))
+
+//output
+Enter a string to check for charecter frequency:arya
+{'a': 2, 'r': 1, 'y': 1}
