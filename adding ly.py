@@ -7,3 +7,7 @@ def addingOrly(str):
 word=input("Enter a word to modify:")
 modifiedString=addingOrly(word)
 print("Modified string=",modifiedString)
+
+//output
+Enter a word to modify:going
+Modified string= goingly
